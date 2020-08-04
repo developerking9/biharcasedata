@@ -1,14 +1,18 @@
 {
   "BhiarCaseReport": [
     {
-      "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+       "id": 1,
+      "Namebr": "India (इंडिया)",
+      "TotalCasesbr": "1583792",
+      "TotalDeathsbr": "34968",
+      "TotalRecoveredbr": "1020582",
+      "TotalCasesobr": "1.58M",
+      "TotalDeathswbr": "34.96K",
+      "TotalRecoveredrbr": "1.02M",
+      "TotalIncbr": "52.12K+",
+      "TotalDecbr": "775+",
+      "TotalRecbr": "32.55K+",
+      "Conditionbr": "Need to improve"
     }
   ]
 }
